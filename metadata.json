@@ -1,0 +1,8 @@
+
+{
+  "name": "Hacker Professor - Visual Intelligence",
+  "description": "A high-fidelity social platform by Hacker Professor, featuring AI-powered caption generation and futuristic UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
